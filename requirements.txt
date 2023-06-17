@@ -2,5 +2,6 @@ gTTS==2.2.3
 Pillow
 python-dotenv==1.0.0
 streamlit==1.14.0
+tensorflow==2.13.0rc1
 transformers==4.27.3
 streamlit
