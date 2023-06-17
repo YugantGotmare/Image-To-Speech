@@ -1,8 +1,6 @@
 gTTS==2.2.3
-Pillow==9.3.0
-Pillow==9.5.0
-Pillow==9.5.0
+Pillow
 python-dotenv==1.0.0
 streamlit==1.14.0
 transformers==4.27.3
-~treamlit==1.10.0
+streamlit
